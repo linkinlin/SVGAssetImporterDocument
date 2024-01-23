@@ -5,6 +5,7 @@
 #### A.Example1
 <img src="images/earth.svg" alt="svg" width="128" height="128"> <br>
 <img src="images/20240123225335.png" alt="svg" width="75%" width="75%"> <br>
+<img src="images/20240123225424.png" alt="svg" width="75%" width="75%"> <br>
 
 #### B.Example2
 <img src="images/long.svg" alt="svg" width="128" height="128"><br>
